@@ -1,0 +1,187 @@
+date,month_key,store,store_no,section,item,category,tier,qty,weight_kg,unit_price,line_total,spend,receipt_total,is_promo_item,is_on_special,activity_id,receipt_source
+2026-06-14,2026-06,3855 Caulfield North,3855,This Month,Bulla Creamy Classics Choc Chip 2L,Ice Cream & Frozen Desserts,discretionary,1,,,7.00,7.00,7.00,True,False,4146677943,INSTORE
+2026-06-14,2026-06,3568 Caulfield North,3568,This Month,Carlton Draught Lager Btl 6X375ml,Alcohol,discretionary,1,,,23.00,23.00,18.00,True,False,4146661059,INSTORE
+2026-06-09,2026-06,3855 Caulfield North,3855,This Month,WW Vegetable Oil 750ml,Pantry Staples,essential,1,,,4.00,4.00,4.00,False,False,4125163330,INSTORE
+2026-06-07,2026-06,3855 Caulfield North,3855,This Month,Pepsi Soft Drink 1.25L,Soft Drinks & Energy,discretionary,1,,,1.87,1.87,41.24,True,True,4118658021,INSTORE
+2026-06-07,2026-06,3855 Caulfield North,3855,This Month,WW FFG Dairy Free Choc Cheesecake 675g,Ice Cream & Frozen Desserts,discretionary,1,,,6.75,6.75,41.24,True,False,4118658021,INSTORE
+2026-06-07,2026-06,3855 Caulfield North,3855,This Month,Grape Red Seedless 500g,Fresh Produce,essential,1,,,2.36,2.36,41.24,False,False,4118658021,INSTORE
+2026-06-07,2026-06,3855 Caulfield North,3855,This Month,WW Chocolate Creme Wafers 125g,Chocolate & Confectionery,discretionary,1,,,0.80,0.80,41.24,True,False,4118658021,INSTORE
+2026-06-07,2026-06,3855 Caulfield North,3855,This Month,WW Diced Italian Tomatoes 400g,Pantry Staples,essential,2,,1.10,2.20,2.20,41.24,False,False,4118658021,INSTORE
+2026-06-07,2026-06,3855 Caulfield North,3855,This Month,Cheezels Original Cheese Party Pack 190g,Chips & Salty Snacks,discretionary,1,,,4.00,4.00,41.24,True,False,4118658021,INSTORE
+2026-06-07,2026-06,3855 Caulfield North,3855,This Month,WW Chicken Schnitzels 600g,Meat & Poultry,essential,1,,,6.21,6.21,41.24,False,False,4118658021,INSTORE
+2026-06-07,2026-06,3855 Caulfield North,3855,This Month,Oreo Choco SS 140g,Chocolate & Confectionery,discretionary,2,,1.60,3.20,3.20,41.24,True,True,4118658021,INSTORE
+2026-06-07,2026-06,3855 Caulfield North,3855,This Month,Oreo Caramilk DS 136g,Chocolate & Confectionery,discretionary,1,,,1.60,1.60,41.24,True,True,4118658021,INSTORE
+2026-06-07,2026-06,3855 Caulfield North,3855,This Month,Oreo Original DS 136g,Chocolate & Confectionery,discretionary,1,,,1.60,1.60,41.24,True,True,4118658021,INSTORE
+2026-06-07,2026-06,3855 Caulfield North,3855,This Month,WW RSPCA Chicken Breast Fillets Small,Meat & Poultry,essential,1,,,9.15,9.15,41.24,False,False,4118658021,INSTORE
+2026-06-07,2026-06,3855 Caulfield North,3855,This Month,Cadbury Breakaway Chocolate Bar 44g,Chocolate & Confectionery,discretionary,1,,,1.50,1.50,41.24,True,True,4118658021,INSTORE
+2026-06-05,2026-06,3855 Caulfield North,3855,This Month,Banana Cavendish,Fresh Produce,essential,1,0.937,4.90,4.59,4.59,40.11,False,False,4111477260,INSTORE
+2026-06-05,2026-06,3855 Caulfield North,3855,This Month,Pepsi Max Cola Drink 1.25L,Soft Drinks & Energy,discretionary,1,,,1.87,1.87,40.11,True,True,4111477260,INSTORE
+2026-06-05,2026-06,3855 Caulfield North,3855,This Month,Ingham's Chk Tenders Swt Chli 400g,Ready Meals & Heat-and-Eat,essential,1,,,5.50,5.50,40.11,False,False,4111477260,INSTORE
+2026-06-05,2026-06,3855 Caulfield North,3855,This Month,MEarth Chwy Muesli Bar Choc Chp 180g 6Pk,Chocolate & Confectionery,discretionary,1,,,2.70,2.70,40.11,True,False,4111477260,INSTORE
+2026-06-05,2026-06,3855 Caulfield North,3855,This Month,Burger Rings Snacks 90g,Chips & Salty Snacks,discretionary,1,,,1.35,1.35,40.11,True,True,4111477260,INSTORE
+2026-06-05,2026-06,3855 Caulfield North,3855,This Month,Potato White Washed 2Kg,Fresh Produce,essential,1,,,8.00,8.00,40.11,False,False,4111477260,INSTORE
+2026-06-05,2026-06,3855 Caulfield North,3855,This Month,Onion Brown 1kg P/P,Fresh Produce,essential,1,,,2.50,2.50,40.11,False,False,4111477260,INSTORE
+2026-06-05,2026-06,3855 Caulfield North,3855,This Month,Hillview Cheese Slices Light500g,Dairy & Eggs,essential,1,,,0.90,0.90,40.11,False,True,4111477260,INSTORE
+2026-06-05,2026-06,3855 Caulfield North,3855,This Month,WW Natural Greek Style Yoghurt 2kg,Dairy & Eggs,essential,1,,,8.40,8.40,40.11,False,False,4111477260,INSTORE
+2026-06-05,2026-06,3855 Caulfield North,3855,This Month,WW Multigrain Soft Sandwich 650g,Bakery & Bread,essential,1,,,2.80,2.80,40.11,False,False,4111477260,INSTORE
+2026-06-05,2026-06,3855 Caulfield North,3855,This Month,Cadbury Caramilk Bar 45g,Chocolate & Confectionery,discretionary,1,,,1.50,1.50,40.11,True,True,4111477260,INSTORE
+2026-06-02,2026-06,3115 Balaclava,3115,This Month,WW Light Thickened Cream 300ml,Dairy & Eggs,essential,1,,,3.40,3.40,9.10,False,False,4099908262,INSTORE
+2026-06-02,2026-06,3115 Balaclava,3115,This Month,Onion Brown 1kg P/P,Fresh Produce,essential,1,,,3.60,3.60,9.10,False,False,4099908262,INSTORE
+2026-06-02,2026-06,3115 Balaclava,3115,This Month,Coca Cola Drink Classic 1.25L,Soft Drinks & Energy,discretionary,1,,,2.10,2.10,9.10,True,True,4099908262,INSTORE
+2026-06-01,2026-06,3133 Chadstone,3133,This Month,Lettuce Cos Hearts 2 Pack,Fresh Produce,essential,1,,,2.50,2.50,4.00,False,False,4096303072,INSTORE
+2026-06-01,2026-06,3133 Chadstone,3133,This Month,Mars Bar 47g,Chocolate & Confectionery,discretionary,1,,,1.50,1.50,4.00,True,True,4096303072,INSTORE
+2026-05-31,2026-05,3568 Caulfield North,3568,Last Month,Vodka & 500ml,Alcohol,discretionary,1,,,38.00,38.00,38.00,True,True,4092448627,INSTORE
+2026-05-31,2026-05,3855 Caulfield North,3855,Last Month,RRD Chef Srs Chrg Spcd Chkn Chips 150g,Chips & Salty Snacks,discretionary,1,,,3.00,3.00,5.20,True,True,4092047570,INSTORE
+2026-05-31,2026-05,3855 Caulfield North,3855,Last Month,WW Corn Chips Supreme Cheese 175g,Chips & Salty Snacks,discretionary,1,,,2.20,2.20,5.20,True,False,4092047570,INSTORE
+2026-05-31,2026-05,3568 Caulfield North,3568,Last Month,Jagermeister Liqueur700ml,Alcohol,discretionary,1,,,55.00,55.00,55.00,True,True,4092032821,INSTORE
+2026-05-30,2026-05,3855 Caulfield North,3855,Last Month,Monster Energy Drink Zero Ultra 4x500ml,Soft Drinks & Energy,discretionary,1,,,8.25,8.25,35.89,True,True,4088073116,INSTORE
+2026-05-30,2026-05,3855 Caulfield North,3855,Last Month,Coca Cola Soft Drink Diet 1.25L,Soft Drinks & Energy,discretionary,1,,,2.10,2.10,35.89,True,True,4088073116,INSTORE
+2026-05-30,2026-05,3855 Caulfield North,3855,Last Month,Mandarins Kids 5 Pack,Fresh Produce,essential,1,,,4.05,4.05,35.89,False,False,4088073116,INSTORE
+2026-05-30,2026-05,3855 Caulfield North,3855,Last Month,Cadbury Dairy Milk Marble Block 173g,Chocolate & Confectionery,discretionary,1,,,4.80,4.80,35.89,True,True,4088073116,INSTORE
+2026-05-30,2026-05,3855 Caulfield North,3855,Last Month,Grape Black Seedless 500g,Fresh Produce,essential,1,,,2.65,2.65,35.89,False,False,4088073116,INSTORE
+2026-05-30,2026-05,3855 Caulfield North,3855,Last Month,WW RSPCA Chicken Breast Fillets Bulk,Meat & Poultry,essential,1,,,14.04,14.04,35.89,False,False,4088073116,INSTORE
+2026-05-30,2026-05,3855 Caulfield North,3855,Last Month,V Energy Drink Original Guarana 250ml,Soft Drinks & Energy,discretionary,1,,,2.65,2.65,2.65,True,False,4085106851,INSTORE
+2026-05-29,2026-05,3855 Caulfield North,3855,Last Month,MEarth Chwy Muesli Bar Choc Chp 180g 6Pk,Chocolate & Confectionery,discretionary,1,,,2.70,2.70,20.40,True,False,4084311606,INSTORE
+2026-05-29,2026-05,3855 Caulfield North,3855,Last Month,Peters Dstck Minis Choc/Cara 6pk 480ml,Ice Cream & Frozen Desserts,discretionary,1,,,5.90,5.90,20.40,True,True,4084311606,INSTORE
+2026-05-29,2026-05,3855 Caulfield North,3855,Last Month,Monster Energy Drink Zero Ultra 4x500ml,Soft Drinks & Energy,discretionary,1,,,8.25,8.25,20.40,True,True,4084311606,INSTORE
+2026-05-29,2026-05,3855 Caulfield North,3855,Last Month,WW Full Cream Milk 2L,Dairy & Eggs,essential,1,,,3.55,3.55,20.40,False,False,4084311606,INSTORE
+2026-05-27,2026-05,3568 Caulfield North,3568,Last Month,Vasto Cerveza Bttle 6x330ml,Alcohol,discretionary,1,,,12.00,12.00,12.00,True,True,4076549737,INSTORE
+2026-05-23,2026-05,3855 Caulfield North,3855,Last Month,Cadbury Boost 50g,Chocolate & Confectionery,discretionary,1,,,1.00,1.00,11.20,True,True,4060971932,INSTORE
+2026-05-23,2026-05,3855 Caulfield North,3855,Last Month,Pepsi Soft Drink 1.25L,Soft Drinks & Energy,discretionary,1,,,2.25,2.25,11.20,True,True,4060971932,INSTORE
+2026-05-23,2026-05,3855 Caulfield North,3855,Last Month,Cadbury Caramilk Bar 45g,Chocolate & Confectionery,discretionary,1,,,1.00,1.00,11.20,True,True,4060971932,INSTORE
+2026-05-23,2026-05,3855 Caulfield North,3855,Last Month,Woolworths Whole Milk 2L,Dairy & Eggs,essential,1,,,3.55,3.55,11.20,False,False,4060971932,INSTORE
+2026-05-23,2026-05,3855 Caulfield North,3855,Last Month,Herb Fresh Coriander Bunch,Fresh Produce,essential,1,,,3.40,3.40,11.20,False,False,4060971932,INSTORE
+2026-05-19,2026-05,3855 Caulfield North,3855,Last Month,H2 Coco Pure Coconut Water 1L,Soft Drinks & Energy,discretionary,1,,,2.95,2.95,53.67,False,True,4045230479,INSTORE
+2026-05-19,2026-05,3855 Caulfield North,3855,Last Month,MEarth Chwy Muesli Bar Choc Chp 180g 6Pk,Chocolate & Confectionery,discretionary,2,,2.70,5.40,5.40,53.67,True,False,4045230479,INSTORE
+2026-05-19,2026-05,3855 Caulfield North,3855,Last Month,Potato White Washed 2Kg,Fresh Produce,essential,1,,,8.00,8.00,53.67,False,False,4045230479,INSTORE
+2026-05-19,2026-05,3855 Caulfield North,3855,Last Month,Mission Mini W/grain Wraps 384g,Bakery & Bread,essential,2,,5.00,10.00,10.00,53.67,False,False,4045230479,INSTORE
+2026-05-19,2026-05,3855 Caulfield North,3855,Last Month,WW RSPCA Chicken Thigh Fillets Bulk,Meat & Poultry,essential,1,,,18.82,18.82,53.67,False,False,4045230479,INSTORE
+2026-05-19,2026-05,3855 Caulfield North,3855,Last Month,Lyndale Cage Eggs XL 12pk 700g,Dairy & Eggs,essential,1,,,5.50,5.50,53.67,False,False,4045230479,INSTORE
+2026-05-19,2026-05,3855 Caulfield North,3855,Last Month,Cadbury Dairy Milk 100g,Chocolate & Confectionery,discretionary,1,,,3.00,3.00,53.67,True,False,4045230479,INSTORE
+2026-05-18,2026-05,3855 Caulfield North,3855,Last Month,Peters Dstck Minis Choc/Cara 6pk 480ml,Ice Cream & Frozen Desserts,discretionary,1,,,4.95,4.95,7.75,True,True,4042084589,INSTORE
+2026-05-18,2026-05,3855 Caulfield North,3855,Last Month,WW Multigrain Soft Sandwich 650g,Bakery & Bread,essential,1,,,2.80,2.80,7.75,False,False,4042084589,INSTORE
+2026-05-05,2026-05,3855 Caulfield North,3855,Last Month,Lyndale Cage Eggs Jumbo 12pk 800g,Dairy & Eggs,essential,1,,,6.00,6.00,8.50,False,False,3985471868,INSTORE
+2026-05-05,2026-05,3855 Caulfield North,3855,Last Month,Onion Brown 1kg P/P,Fresh Produce,essential,1,,,2.50,2.50,8.50,False,False,3985471868,INSTORE
+2026-05-05,2026-05,3855 Caulfield North,3855,Last Month,Nescafe Coffee Original 400g,"Coffee, Tea & Hot Drinks",essential,1,,,26.00,26.00,26.00,False,False,3985459593,INSTORE
+2026-05-03,2026-05,3855 Caulfield North,3855,Last Month,Banana Cavendish,Fresh Produce,essential,1,0.792,4.00,3.17,3.17,5.67,False,False,3980653474,INSTORE
+2026-05-03,2026-05,3855 Caulfield North,3855,Last Month,Onion Brown 1kg P/P,Fresh Produce,essential,1,,,2.50,2.50,5.67,False,False,3980653474,INSTORE
+2026-05-01,2026-05,3855 Caulfield North,3855,Last Month,WW Diced Italian Tomatoes 400g,Pantry Staples,essential,3,,1.10,3.30,3.30,6.85,False,False,3970145689,INSTORE
+2026-05-01,2026-05,3855 Caulfield North,3855,Last Month,Woolworths Whole Milk 2L,Dairy & Eggs,essential,1,,,3.55,3.55,6.85,False,False,3970145689,INSTORE
+2026-04-28,2026-04,3855 Caulfield North,3855,April 2026,WW Cashews Sea Salt 200g,Pantry Staples,essential,1,,,4.35,4.35,46.35,True,False,3959738305,INSTORE
+2026-04-28,2026-04,3855 Caulfield North,3855,April 2026,WW Traditional Mayonnaise 470g,Pantry Staples,essential,1,,,3.70,3.70,46.35,False,False,3959738305,INSTORE
+2026-04-28,2026-04,3855 Caulfield North,3855,April 2026,WW Dressing Caesar 300ml,Pantry Staples,essential,1,,,1.80,1.80,46.35,False,False,3959738305,INSTORE
+2026-04-28,2026-04,3855 Caulfield North,3855,April 2026,Cadbury Dairy Milk Roll 55g,Chocolate & Confectionery,discretionary,1,,,1.25,1.25,46.35,True,True,3959738305,INSTORE
+2026-04-28,2026-04,3855 Caulfield North,3855,April 2026,Greens Glamingtons Funfetti Fingers 6Pk,Biscuits & Sweet Snacks,discretionary,1,,,1.75,1.75,46.35,True,False,3959738305,INSTORE
+2026-04-28,2026-04,3855 Caulfield North,3855,April 2026,WW RSPCA Chicken Breast Fillets Bulk,Meat & Poultry,essential,1,,,16.85,16.85,46.35,False,False,3959738305,INSTORE
+2026-04-28,2026-04,3855 Caulfield North,3855,April 2026,Pepsi Max Cola Drink 1.25L,Soft Drinks & Energy,discretionary,1,,,2.25,2.25,46.35,True,True,3959738305,INSTORE
+2026-04-28,2026-04,3855 Caulfield North,3855,April 2026,Nandos Perinaise Hot 465g,Pantry Staples,essential,1,,,7.50,7.50,46.35,False,False,3959738305,INSTORE
+2026-04-28,2026-04,3855 Caulfield North,3855,April 2026,Hoyts Chillies Dry 25g,Pantry Staples,essential,1,,,2.00,2.00,46.35,False,True,3959738305,INSTORE
+2026-04-28,2026-04,3855 Caulfield North,3855,April 2026,Farmers Union Greek Style Protein 500g,Dairy & Eggs,essential,1,,,4.90,4.90,46.35,False,False,3959738305,INSTORE
+2026-04-26,2026-04,3855 Caulfield North,3855,April 2026,De-Gas Capsules Peppermint 24pk,Personal Care & Health,essential,1,,,9.50,9.50,33.20,True,False,3952055883,INSTORE
+2026-04-26,2026-04,3855 Caulfield North,3855,April 2026,Powerade Flo Cap Mountn Blast 600ml,Soft Drinks & Energy,discretionary,1,,,2.25,2.25,33.20,True,True,3952055883,INSTORE
+2026-04-26,2026-04,3855 Caulfield North,3855,April 2026,Red Bull Energy Drink 4x250ml,Soft Drinks & Energy,discretionary,1,,,9.10,9.10,33.20,True,True,3952055883,INSTORE
+2026-04-26,2026-04,3855 Caulfield North,3855,April 2026,Woolworths Lotus Biscoff Cheesecake 2 pa,Ice Cream & Frozen Desserts,discretionary,1,,,8.00,8.00,33.20,True,False,3952055883,INSTORE
+2026-04-26,2026-04,3855 Caulfield North,3855,April 2026,Powerade Flo Cap Blackcurrant 600ml,Soft Drinks & Energy,discretionary,1,,,2.25,2.25,33.20,True,True,3952055883,INSTORE
+2026-04-26,2026-04,3855 Caulfield North,3855,April 2026,GB Value Garlic Bread 450g 2Pk,Bakery & Bread,essential,1,,,2.10,2.10,33.20,False,False,3952055883,INSTORE
+2026-04-21,2026-04,3855 Caulfield North,3855,April 2026,Coca Cola Drink Classic 1.25L,Soft Drinks & Energy,discretionary,2,,2.10,4.20,4.20,11.85,True,True,3933542804,INSTORE
+2026-04-21,2026-04,3855 Caulfield North,3855,April 2026,Cadbury Marv Creations Crunchie 190g,Chocolate & Confectionery,discretionary,1,,,6.40,6.40,11.85,True,True,3933542804,INSTORE
+2026-04-21,2026-04,3855 Caulfield North,3855,April 2026,Mentos Mint Roll 37.5g,Chocolate & Confectionery,discretionary,1,,,1.25,1.25,11.85,True,True,3933542804,INSTORE
+2026-04-20,2026-04,3855 Caulfield North,3855,April 2026,Coca Cola Soft Drink Diet 1.25L,Soft Drinks & Energy,discretionary,1,,,2.10,2.10,39.45,True,True,3927463128,INSTORE
+2026-04-20,2026-04,3855 Caulfield North,3855,April 2026,Woolworths Whole Milk 3L,Dairy & Eggs,essential,1,,,4.65,4.65,39.45,False,False,3927463128,INSTORE
+2026-04-20,2026-04,3855 Caulfield North,3855,April 2026,Armada Scented Tidy Sml Lav/lem 40pk,Household & Cleaning,essential,1,,,2.50,2.50,39.45,True,False,3927463128,INSTORE
+2026-04-20,2026-04,3855 Caulfield North,3855,April 2026,WW Sponge Scourer Heavy Duty 6Pk,Household & Cleaning,essential,1,,,2.80,2.80,39.45,True,False,3927463128,INSTORE
+2026-04-20,2026-04,3855 Caulfield North,3855,April 2026,Balnea Foaming Handwash Berry 250ml,Fresh Produce,essential,1,,,2.50,2.50,39.45,True,False,3927463128,INSTORE
+2026-04-20,2026-04,3855 Caulfield North,3855,April 2026,WW Chicken Breast Crumbed Nuggets 400g,Meat & Poultry,essential,1,,,4.40,4.40,39.45,False,False,3927463128,INSTORE
+2026-04-20,2026-04,3855 Caulfield North,3855,April 2026,WW Peeled Tomatoes Italian 400g,Fresh Produce,essential,2,,1.10,2.20,2.20,39.45,False,False,3927463128,INSTORE
+2026-04-20,2026-04,3855 Caulfield North,3855,April 2026,WW Freeze Dried Coffee Classic 100g,"Coffee, Tea & Hot Drinks",essential,1,,,5.00,5.00,39.45,False,False,3927463128,INSTORE
+2026-04-20,2026-04,3855 Caulfield North,3855,April 2026,Twinings Peppermint Tea Bags 40pk,"Coffee, Tea & Hot Drinks",essential,1,,,7.00,7.00,39.45,False,True,3927463128,INSTORE
+2026-04-20,2026-04,3855 Caulfield North,3855,April 2026,Essentials Domestic Wipes 10pk,Household & Cleaning,essential,1,,,1.05,1.05,39.45,True,False,3927463128,INSTORE
+2026-04-20,2026-04,3855 Caulfield North,3855,April 2026,Glad Wrap 60m X 33cm,Bakery & Bread,essential,1,,,5.25,5.25,39.45,True,False,3927463128,INSTORE
+2026-04-18,2026-04,3855 Caulfield North,3855,April 2026,Woolworths Whole Milk 2L,Dairy & Eggs,essential,1,,,3.20,3.20,22.75,False,False,3919987663,INSTORE
+2026-04-18,2026-04,3855 Caulfield North,3855,April 2026,Mint Bamboo Skewers 25cm 200pk,Household & Cleaning,essential,1,,,4.00,4.00,22.75,True,False,3919987663,INSTORE
+2026-04-18,2026-04,3855 Caulfield North,3855,April 2026,Onion Brown 1kg P/P,Fresh Produce,essential,1,,,2.50,2.50,22.75,False,False,3919987663,INSTORE
+2026-04-18,2026-04,3855 Caulfield North,3855,April 2026,Coca Cola Soft Drink Diet 1.25L,Soft Drinks & Energy,discretionary,1,,,2.10,2.10,22.75,True,True,3919987663,INSTORE
+2026-04-18,2026-04,3855 Caulfield North,3855,April 2026,WW Coat & Cook Southern Fried 50g,Pantry Staples,essential,1,,,1.80,1.80,22.75,False,False,3919987663,INSTORE
+2026-04-18,2026-04,3855 Caulfield North,3855,April 2026,WW Vegetable Oil 750ml,Pantry Staples,essential,1,,,4.00,4.00,22.75,False,False,3919987663,INSTORE
+2026-04-18,2026-04,3855 Caulfield North,3855,April 2026,GNL Air Freshener Mand Lem Myrtl 200ml,Household & Cleaning,essential,1,,,5.15,5.15,22.75,True,True,3919987663,INSTORE
+2026-04-17,2026-04,3855 Caulfield North,3855,April 2026,Banana Cavendish,Fresh Produce,essential,1,0.982,2.90,2.85,2.85,24.95,False,False,3917011873,INSTORE
+2026-04-17,2026-04,3855 Caulfield North,3855,April 2026,Indomie Mi Goreng Hot & Spicy 80g x 5pk,Pantry Staples,essential,1,,,3.95,3.95,24.95,False,False,3917011873,INSTORE
+2026-04-17,2026-04,3855 Caulfield North,3855,April 2026,Essentials Long Grain White Rice 1kg,Pantry Staples,essential,1,,,1.80,1.80,24.95,False,False,3917011873,INSTORE
+2026-04-17,2026-04,3855 Caulfield North,3855,April 2026,MEarth Chwy Muesli Bar Choc Chp 180g 6Pk,Chocolate & Confectionery,discretionary,3,,2.70,8.10,8.10,24.95,True,False,3917011873,INSTORE
+2026-04-17,2026-04,3855 Caulfield North,3855,April 2026,Potato White Washed 2Kg,Fresh Produce,essential,1,,,8.25,8.25,24.95,False,False,3917011873,INSTORE
+2026-04-13,2026-04,3855 Caulfield North,3855,April 2026,Banana Cavendish,Fresh Produce,essential,1,0.362,3.90,1.41,1.41,8.86,False,False,3901077254,INSTORE
+2026-04-13,2026-04,3855 Caulfield North,3855,April 2026,Woolworths Whole Milk 3L,Dairy & Eggs,essential,1,,,4.65,4.65,8.86,False,False,3901077254,INSTORE
+2026-04-13,2026-04,3855 Caulfield North,3855,April 2026,WW White Sandwich Soft 650g,Bakery & Bread,essential,1,,,2.80,2.80,8.86,False,False,3901077254,INSTORE
+2026-04-09,2026-04,3855 Caulfield North,3855,April 2026,Eggplant Kg,Fresh Produce,essential,1,0.617,10.20,6.29,6.29,40.09,False,False,3884061076,INSTORE
+2026-04-09,2026-04,3855 Caulfield North,3855,April 2026,WW Natural Greek Style Yoghurt 2kg,Dairy & Eggs,essential,1,,,8.00,8.00,40.09,False,False,3884061076,INSTORE
+2026-04-09,2026-04,3855 Caulfield North,3855,April 2026,Earth Choice D/Wash Liq Lemon Fresh 1L,Fresh Produce,essential,1,,,2.55,2.55,40.09,True,False,3884061076,INSTORE
+2026-04-09,2026-04,3855 Caulfield North,3855,April 2026,Soften Fabric Softener Elegant Nght 1L,Household & Cleaning,essential,1,,,3.70,3.70,40.09,True,False,3884061076,INSTORE
+2026-04-09,2026-04,3855 Caulfield North,3855,April 2026,Onion Red 1kg P/P,Fresh Produce,essential,1,,,3.00,3.00,40.09,False,False,3884061076,INSTORE
+2026-04-09,2026-04,3855 Caulfield North,3855,April 2026,WW Broccoli & Cauliflower 500g,Fresh Produce,essential,1,,,4.00,4.00,40.09,False,False,3884061076,INSTORE
+2026-04-09,2026-04,3855 Caulfield North,3855,April 2026,Nut Peanut Rst/Salt 750g,Pantry Staples,essential,1,,,6.20,6.20,40.09,True,False,3884061076,INSTORE
+2026-04-09,2026-04,3855 Caulfield North,3855,April 2026,WW Aus Sultanas 6 x 40g,Fresh Produce,essential,1,,,2.50,2.50,40.09,False,False,3884061076,INSTORE
+2026-04-09,2026-04,3855 Caulfield North,3855,April 2026,Potato Spudlite Baby750g PP,Fresh Produce,essential,1,,,3.85,3.85,40.09,False,False,3884061076,INSTORE
+2026-04-07,2026-04,3855 Caulfield North,3855,April 2026,Smiths Crackers Crispy Chicken 160g,Meat & Poultry,essential,1,,,2.00,2.00,34.62,True,True,3877193117,INSTORE
+2026-04-07,2026-04,3855 Caulfield North,3855,April 2026,WW Free From Gluten Choc HCB 4pk,Chocolate & Confectionery,discretionary,1,,,3.52,3.52,34.62,False,False,3877193117,INSTORE
+2026-04-07,2026-04,3855 Caulfield North,3855,April 2026,Woolworths Whole Milk 2L,Dairy & Eggs,essential,1,,,3.20,3.20,34.62,False,False,3877193117,INSTORE
+2026-04-07,2026-04,3855 Caulfield North,3855,April 2026,KitKat Chunky Gooey Caramel 48g,Chocolate & Confectionery,discretionary,1,,,1.50,1.50,34.62,True,True,3877193117,INSTORE
+2026-04-07,2026-04,3855 Caulfield North,3855,April 2026,WW Crinkle Cut Original 175g,Chips & Salty Snacks,discretionary,1,,,2.20,2.20,34.62,True,False,3877193117,INSTORE
+2026-04-07,2026-04,3855 Caulfield North,3855,April 2026,Cheetos Puffs 80g,Chips & Salty Snacks,discretionary,1,,,2.85,2.85,34.62,True,False,3877193117,INSTORE
+2026-04-07,2026-04,3855 Caulfield North,3855,April 2026,Pepsi Max Cola Drink 1.25L,Soft Drinks & Energy,discretionary,1,,,3.90,3.90,34.62,True,False,3877193117,INSTORE
+2026-04-07,2026-04,3855 Caulfield North,3855,April 2026,WW Cashews Sea Salt 200g,Pantry Staples,essential,1,,,4.35,4.35,34.62,True,False,3877193117,INSTORE
+2026-04-07,2026-04,3855 Caulfield North,3855,April 2026,MEarth Chwy Muesli Bar Choc Chp 180g 6Pk,Chocolate & Confectionery,discretionary,3,,2.70,8.10,8.10,34.62,True,False,3877193117,INSTORE
+2026-04-07,2026-04,3855 Caulfield North,3855,April 2026,Cadbury Dairy Milk 100g,Chocolate & Confectionery,discretionary,1,,,3.00,3.00,34.62,True,False,3877193117,INSTORE
+2026-04-06,2026-04,3855 Caulfield North,3855,April 2026,Woolworths Whole Milk 2L,Dairy & Eggs,essential,1,,,3.20,3.20,9.20,False,False,3873172981,INSTORE
+2026-04-06,2026-04,3855 Caulfield North,3855,April 2026,Clean Laundry Liquid Tropical Bloom 2L,Household & Cleaning,essential,1,,,6.00,6.00,9.20,True,False,3873172981,INSTORE
+2026-04-06,2026-04,3568 Caulfield North,3568,April 2026,Smirnoff Red Vodka 1L,Alcohol,discretionary,1,,,62.00,62.00,62.00,True,True,3873163636,INSTORE
+2026-04-02,2026-04,3855 Caulfield North,3855,April 2026,WW Frozen Blueberries 500g,Fresh Produce,essential,1,,,6.50,6.50,9.90,False,False,3858272787,INSTORE
+2026-04-02,2026-04,3855 Caulfield North,3855,April 2026,WW Thickened Cream 300ml,Dairy & Eggs,essential,1,,,3.40,3.40,9.90,False,False,3858272787,INSTORE
+2026-04-02,2026-04,3855 Caulfield North,3855,April 2026,Woolworths Whole Milk 3L,Dairy & Eggs,essential,1,,,4.65,4.65,33.10,False,False,3857371865,INSTORE
+2026-04-02,2026-04,3855 Caulfield North,3855,April 2026,Farmers Union Greek Style Protein 500g,Dairy & Eggs,essential,2,,4.90,9.80,9.80,33.10,False,False,3857371865,INSTORE
+2026-04-02,2026-04,3855 Caulfield North,3855,April 2026,Woolworths Paper Bag,Household & Cleaning,essential,1,,,0.25,0.25,33.10,True,False,3857371865,INSTORE
+2026-04-02,2026-04,3855 Caulfield North,3855,April 2026,Hoyts Chilli Powder 50g,Pantry Staples,essential,1,,,2.00,2.00,33.10,False,False,3857371865,INSTORE
+2026-04-02,2026-04,3855 Caulfield North,3855,April 2026,Western Star Chefs Chce Cult Btr Uns500g,Dairy & Eggs,essential,1,,,8.90,8.90,33.10,False,False,3857371865,INSTORE
+2026-04-02,2026-04,3855 Caulfield North,3855,April 2026,Bega Cheese Slices Strong & Bitey 250g,Dairy & Eggs,essential,1,,,7.50,7.50,33.10,False,False,3857371865,INSTORE
+2026-04-01,2026-04,3855 Caulfield North,3855,April 2026,Banana Cavendish,Fresh Produce,essential,1,0.677,3.90,2.64,2.64,6.64,False,False,3852309914,INSTORE
+2026-04-01,2026-04,3855 Caulfield North,3855,April 2026,Essentials Facial Tisss White 2ply 224pk,Household & Cleaning,essential,1,,,1.90,1.90,6.64,True,False,3852309914,INSTORE
+2026-04-01,2026-04,3855 Caulfield North,3855,April 2026,Coca Cola Zero Sugar Soft Drink 1.25L,Soft Drinks & Energy,discretionary,1,,,2.10,2.10,6.64,True,True,3852309914,INSTORE
+2026-03-29,2026-03,3855 Caulfield North,3855,March 2026,Woolworths Paper Bag,Household & Cleaning,essential,1,,,0.25,0.25,26.00,True,False,3839392015,INSTORE
+2026-03-29,2026-03,3855 Caulfield North,3855,March 2026,WW Chicken Breast Tenders S Chilli 400g,Meat & Poultry,essential,1,,,4.40,4.40,26.00,False,False,3839392015,INSTORE
+2026-03-29,2026-03,3855 Caulfield North,3855,March 2026,Edge Mens Disposable Razors 3 Blade 8pk,Personal Care & Health,essential,1,,,4.80,4.80,26.00,True,False,3839392015,INSTORE
+2026-03-29,2026-03,3855 Caulfield North,3855,March 2026,WW Diced Italian Tomatoes 400g,Pantry Staples,essential,4,,1.10,4.40,4.40,26.00,False,False,3839392015,INSTORE
+2026-03-29,2026-03,3855 Caulfield North,3855,March 2026,MEarth Chwy Muesli Bar Choc Chp 180g 6Pk,Chocolate & Confectionery,discretionary,2,,2.70,5.40,5.40,26.00,True,False,3839392015,INSTORE
+2026-03-29,2026-03,3855 Caulfield North,3855,March 2026,Woolworths Whole Milk 3L,Dairy & Eggs,essential,1,,,4.65,4.65,26.00,False,False,3839392015,INSTORE
+2026-03-29,2026-03,3855 Caulfield North,3855,March 2026,Mfoods Sauce Tomato 500ml,Pantry Staples,essential,1,,,2.10,2.10,26.00,False,True,3839392015,INSTORE
+2026-03-28,2026-03,3855 Caulfield North,3855,March 2026,Woolworths Paper Bag,Household & Cleaning,essential,1,,,0.25,0.25,34.09,True,False,3836077522,INSTORE
+2026-03-28,2026-03,3855 Caulfield North,3855,March 2026,Potato White Washed 2Kg,Fresh Produce,essential,1,,,8.25,8.25,34.09,False,False,3836077522,INSTORE
+2026-03-28,2026-03,3855 Caulfield North,3855,March 2026,Herb Curry Leaf Punnet 5g,Fresh Produce,essential,1,,,2.28,2.28,34.09,False,False,3836077522,INSTORE
+2026-03-28,2026-03,3855 Caulfield North,3855,March 2026,Herb Fresh Coriander Bunch,Fresh Produce,essential,1,,,3.40,3.40,34.09,False,False,3836077522,INSTORE
+2026-03-28,2026-03,3855 Caulfield North,3855,March 2026,WW Sweet Chilli Sauce 280ml,Pantry Staples,essential,1,,,2.00,2.00,34.09,False,False,3836077522,INSTORE
+2026-03-28,2026-03,3855 Caulfield North,3855,March 2026,WW RSPCA Chicken Breast Fillets Bulk,Meat & Poultry,essential,1,,,14.41,14.41,34.09,False,False,3836077522,INSTORE
+2026-03-28,2026-03,3855 Caulfield North,3855,March 2026,Ajax Spray n' Wipe MP Lemon Citrus 500ml,Fresh Produce,essential,1,,,3.50,3.50,34.09,True,False,3836077522,INSTORE
+2026-03-28,2026-03,3855 Caulfield North,3855,March 2026,Banana Cavendish,Fresh Produce,essential,1,0.597,4.50,2.69,2.69,2.69,False,False,3836070704,INSTORE
+2026-03-26,2026-03,3855 Caulfield North,3855,March 2026,Leggo's Tomato Puree 410g,Pantry Staples,essential,1,,,2.50,2.50,16.25,False,False,3828988465,INSTORE
+2026-03-26,2026-03,3855 Caulfield North,3855,March 2026,Trident Sauce Sweet Chilli 285ml,Pantry Staples,essential,1,,,3.25,3.25,16.25,False,True,3828988465,INSTORE
+2026-03-26,2026-03,3855 Caulfield North,3855,March 2026,Coca Cola Zero Sugar 300ml 12Pk,Soft Drinks & Energy,discretionary,1,,,10.50,10.50,16.25,True,True,3828988465,INSTORE
+2026-03-25,2026-03,3855 Caulfield North,3855,March 2026,Banana Cavendish,Fresh Produce,essential,1,0.627,4.90,3.07,3.07,15.07,False,False,3825269022,INSTORE
+2026-03-25,2026-03,3855 Caulfield North,3855,March 2026,Armada Reusable Bowls 6pk,Household & Cleaning,essential,1,,,6.00,6.00,15.07,True,False,3825269022,INSTORE
+2026-03-25,2026-03,3855 Caulfield North,3855,March 2026,Berry Blueberry 125g P/P,Fresh Produce,essential,1,,,6.00,6.00,15.07,False,False,3825269022,INSTORE
+2026-03-20,2026-03,3855 Caulfield North,3855,March 2026,Pine O Cleen Disinf Wipes Lem Lime 110pk,Fresh Produce,essential,1,,,6.00,6.00,10.65,True,True,3807784049,INSTORE
+2026-03-20,2026-03,3855 Caulfield North,3855,March 2026,Woolworths Whole Milk 3L,Dairy & Eggs,essential,1,,,4.65,4.65,10.65,False,False,3807784049,INSTORE
+2026-03-17,2026-03,3568 Caulfield North,3568,March 2026,Sapporo Premium Lager Btl 6X355ml,Alcohol,discretionary,1,,,22.50,22.50,34.50,True,True,3797235137,INSTORE
+2026-03-17,2026-03,3568 Caulfield North,3568,March 2026,Coopers Australian Lager Can 6x375mL,Alcohol,discretionary,1,,,25.50,25.50,34.50,True,False,3797235137,INSTORE
+2026-03-15,2026-03,3325 South Yarra,3325,March 2026,Schweppes Min Water Orange Mango 1.1L,Soft Drinks & Energy,discretionary,1,,,3.00,3.00,5.70,True,False,3789795421,INSTORE
+2026-03-15,2026-03,3325 South Yarra,3325,March 2026,MEarth Chwy Muesli Bar Choc Chp 180g 6Pk,Chocolate & Confectionery,discretionary,1,,,2.70,2.70,5.70,True,False,3789795421,INSTORE
+2026-03-12,2026-03,3855 Caulfield North,3855,March 2026,WW Brown Rice Med Grain 1kg,Pantry Staples,essential,1,,,2.50,2.50,26.20,False,False,3781379996,INSTORE
+2026-03-12,2026-03,3855 Caulfield North,3855,March 2026,Berry Blueberry 125g P/P,Fresh Produce,essential,1,,,5.50,5.50,26.20,False,False,3781379996,INSTORE
+2026-03-12,2026-03,3855 Caulfield North,3855,March 2026,Chobani Greek Yoghurt Natural Light 907g,Dairy & Eggs,essential,1,,,8.30,8.30,26.20,False,False,3781379996,INSTORE
+2026-03-12,2026-03,3855 Caulfield North,3855,March 2026,Monster Energy Drink Zero Ultra 4x500ml,Soft Drinks & Energy,discretionary,1,,,8.25,8.25,26.20,True,True,3781379996,INSTORE
+2026-03-12,2026-03,3855 Caulfield North,3855,March 2026,WW Full Cream Milk 1L,Dairy & Eggs,essential,1,,,1.65,1.65,26.20,False,False,3781379996,INSTORE
+2026-03-12,2026-03,3855 Caulfield North,3855,March 2026,Banana Cavendish,Fresh Produce,essential,1,0.632,4.90,3.10,3.10,12.60,False,False,3781363513,INSTORE
+2026-03-12,2026-03,3855 Caulfield North,3855,March 2026,WW Winter Veg Mix 1kg,Frozen Foods,essential,1,,,5.20,5.20,12.60,False,False,3781363513,INSTORE
+2026-03-12,2026-03,3855 Caulfield North,3855,March 2026,McCain Superfries Shoestring 900g,Frozen Foods,essential,1,,,4.30,4.30,12.60,False,False,3781363513,INSTORE
+2026-03-07,2026-03,3855 Caulfield North,3855,March 2026,Indomie Hot & Spicy Noodles 400g 5pk,Pantry Staples,essential,2,,3.95,7.90,7.90,11.55,False,False,3764382889,INSTORE
+2026-03-07,2026-03,3855 Caulfield North,3855,March 2026,Pepsi Soft Drink 1.25L,Soft Drinks & Energy,discretionary,1,,,3.65,3.65,11.55,True,False,3764382889,INSTORE
+2026-03-04,2026-03,3115 Balaclava,3115,March 2026,WW Vegetable Oil 750ml,Pantry Staples,essential,1,,,4.00,4.00,9.60,False,False,3754413494,INSTORE
+2026-03-04,2026-03,3115 Balaclava,3115,March 2026,WW Bakery Wholemeal Sandwich Soft 650g,Bakery & Bread,essential,1,,,2.90,2.90,9.60,False,False,3754413494,INSTORE
+2026-03-04,2026-03,3115 Balaclava,3115,March 2026,MEarth Chwy Muesli Bar Choc Chp 180g 6Pk,Chocolate & Confectionery,discretionary,1,,,2.70,2.70,9.60,True,False,3754413494,INSTORE
